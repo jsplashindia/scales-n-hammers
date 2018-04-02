@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "scales-n-hammers",
+    "description": "",
+    "home_page_url": "https://jsplashindia.github.io/scales-n-hammers",
+    "feed_url": "https://jsplashindia.github.io/scales-n-hammers/feed.json",
+    "user_comment": "",
+    "icon": "https://jsplashindia.github.io/scales-n-hammers/media/website/snh-logo.png",
+    "author": {
+        "name": "BT"
+    },
+    "items": [
+    ]
+}
