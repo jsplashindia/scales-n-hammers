@@ -27,14 +27,14 @@
             "id": "http://scalesnhammers.com/videos.html",
             "url": "http://scalesnhammers.com/videos.html",
             "title": "Videos",
-            "content_html": "<script src=\"https://apis.google.com/js/platform.js\"></script>\n<div class=\"g-ytsubscribe\" data-channel=\"scalesnhammers\" data-layout=\"full\" data-count=\"hidden\"> </div>\n<h3>SNHJAM2</h3>\n<p>Second short jam video, shot completely on an iPhone 7.</p>\n<p>  <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/8YYTpptpt0Q?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Apr 7, 2017.</address>\n<h3>I Rise Up - Unplugged</h3>\n<p>Unplugged version of the song, I Rise Up by Scales 'n' Hammers. Written and composed by Anoop Kammaran and Bijoy Thangaraj.</p>\n<p> <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/OCnkwGDZRRo?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Apr 22, 2016.</address>\n<h3>Just a Jam Session</h3>\n<p>This is how we end up spending our time when we meet. Anoop on the Keys and iPad, Bijoy on Guitar, iPad and Logic Pro.</p>\n<p> <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/fkAkQ7BVmeI?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Sep 20, 2015.</address>",
+            "content_html": "<script src=\"https://apis.google.com/js/platform.js\"></script>\n<div class=\"g-ytsubscribe\" data-channel=\"scalesnhammers\" data-layout=\"full\" data-count=\"hidden\"> </div>\n<h3>SNHJAM2</h3>\n<p>Second short jam video, shot completely on an iPhone 7.</p>\n<p>  <iframe width=\"100%\" height=\"355\" src=\"https://www.youtube.com/embed/8YYTpptpt0Q?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Apr 7, 2017.</address>\n<h3>I Rise Up - Unplugged</h3>\n<p>Unplugged version of the song, I Rise Up by Scales 'n' Hammers. Written and composed by Anoop Kammaran and Bijoy Thangaraj.</p>\n<p> <iframe width=\"100%\" height=\"355\" src=\"https://www.youtube.com/embed/OCnkwGDZRRo?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Apr 22, 2016.</address>\n<h3>Just a Jam Session</h3>\n<p>This is how we end up spending our time when we meet. Anoop on the Keys and iPad, Bijoy on Guitar, iPad and Logic Pro.</p>\n<p> <iframe width=\"100%\" height=\"355\" src=\"https://www.youtube.com/embed/fkAkQ7BVmeI?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<address>Published on Sep 20, 2015.</address>",
             "author": {
                 "name": "BT"
             },
             "tags": [
             ],
             "date_published": "2018-04-02T12:58:33+05:30",
-            "date_modified": "2018-04-04T10:14:52+05:30"
+            "date_modified": "2018-04-04T10:17:19+05:30"
         }
     ]
 }
