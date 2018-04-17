@@ -3,16 +3,16 @@
     <title>scales-n-hammers</title>
     <link href="http://scalesnhammers.com/feed.xml" rel="self" />
     <link href="http://scalesnhammers.com" />
-    <updated>2018-04-07T13:16:51+05:30</updated>
+    <updated>2018-04-17T23:00:34+05:30</updated>
     <author>
-        <name>BT</name>
+        <name>Scales &#x27;n&#x27; Hammers</name>
     </author>
     <id>http://scalesnhammers.com</id>
 
     <entry>
         <title>Music</title>
         <author>
-            <name>BT</name>
+            <name>Scales &#x27;n&#x27; Hammers</name>
         </author>
         <link href="http://scalesnhammers.com/music.html"/>
         <id>http://scalesnhammers.com/music.html</id>
@@ -39,7 +39,7 @@
     <entry>
         <title>Videos</title>
         <author>
-            <name>BT</name>
+            <name>Scales &#x27;n&#x27; Hammers</name>
         </author>
         <link href="http://scalesnhammers.com/videos.html"/>
         <id>http://scalesnhammers.com/videos.html</id>
