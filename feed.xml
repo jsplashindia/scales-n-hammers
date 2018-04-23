@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>scales-n-hammers</title>
-    <link href="http://scalesnhammers.com/feed.xml" rel="self" />
-    <link href="http://scalesnhammers.com" />
-    <updated>2018-04-17T23:00:34+05:30</updated>
+    <link href="https://scalesnhammers.com/feed.xml" rel="self" />
+    <link href="https://scalesnhammers.com" />
+    <updated>2018-04-22T23:08:35+05:30</updated>
     <author>
         <name>Scales &#x27;n&#x27; Hammers</name>
     </author>
-    <id>http://scalesnhammers.com</id>
+    <id>https://scalesnhammers.com</id>
 
     <entry>
         <title>Music</title>
         <author>
             <name>Scales &#x27;n&#x27; Hammers</name>
         </author>
-        <link href="http://scalesnhammers.com/music.html"/>
-        <id>http://scalesnhammers.com/music.html</id>
+        <link href="https://scalesnhammers.com/music.html"/>
+        <id>https://scalesnhammers.com/music.html</id>
 
         <updated>2018-04-03T09:11:27+05:30</updated>
             <summary></summary>
@@ -41,8 +41,8 @@
         <author>
             <name>Scales &#x27;n&#x27; Hammers</name>
         </author>
-        <link href="http://scalesnhammers.com/videos.html"/>
-        <id>http://scalesnhammers.com/videos.html</id>
+        <link href="https://scalesnhammers.com/videos.html"/>
+        <id>https://scalesnhammers.com/videos.html</id>
 
         <updated>2018-04-04T10:17:19+05:30</updated>
             <summary></summary>
